@@ -8,7 +8,7 @@ You will need firebase installed and from firebase you will need storage and fir
 
 <b> git clone</b></br>
 https://github.com/Meron95/React-gallery.git 
-</br></br>
+</br>
 
 <b> npm install</b></br>
 To install all dependencies that is needed to run the project
