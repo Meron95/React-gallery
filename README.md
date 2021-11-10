@@ -16,3 +16,7 @@ To install all dependencies that is needed to run the project
 <b> npm start </b></br>
 To run the application, it will run on localhost:3000
 
+<b>Demo</b></br>
+
+<img width="900" alt="demo1" src="https://user-images.githubusercontent.com/36710730/141111931-f2a016ae-6a8d-4e0b-8c87-796028ac04a0.PNG"></br>
+<img width="900" alt="demo3" src="https://user-images.githubusercontent.com/36710730/141112503-260c4f47-39d9-4cf8-b36b-db6848cb382a.PNG">
