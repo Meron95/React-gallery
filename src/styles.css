@@ -1,0 +1,96 @@
+:root{
+  --primary: #efb6b2;
+  --secondary: #bdba08;
+  --error: #ff4a4a;
+}
+body {
+  margin:0;
+  height:100%;
+}
+.main_links{
+  margin-top: 60px;
+  font-size: 1.6rem;
+  text-align: center;
+}
+.header{
+  background-image: url(./img/Background.jpg);
+  position: fixed;
+  min-width: 100%;
+  min-height: 100%;
+  background-size: cover;
+  background-position: center;
+}
+.header.nature{
+  background-image: url(./img/david-marcu.jpg);
+  position: fixed;
+  min-width: 100%;
+  min-height: 100%;
+  background-size: cover;
+  background-position: center;
+}
+
+.header.fantasy{
+  background-image: url(./img/johannes-plenio.jpg);
+  position: fixed;
+  min-width: 100%;
+  min-height: 100%;
+  background-size: cover;
+  background-position: center;
+}
+.header.other{
+  background-image: url(./img/johannes-plenio-1.jpg);
+  position: fixed;
+  min-width: 100%;
+  min-height: 100%;
+  background-size: cover;
+  background-position: center;
+}
+
+/* styling links as button*/
+.button1{
+  background-image: url(
+    'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzB0pqU6H_nbOYszqC0JStl9-Fj-cjvF80iw&usqp=CAU');
+    background-size: cover;
+    padding: 12px 0;
+    width: 200px;
+    margin-left: 4px;
+    color: #e6e219;
+    border: none;
+    border-radius: 30px;
+    font-weight: bold;
+    font-family: Segoe UI, sans-serif;
+    cursor: pointer;
+}
+.button2{
+  background-image: url(
+    'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1NbUVwXbFp2nfsQTh2LVs_EcpYKAvoomgXA&usqp=CAU');
+    background-size: cover;
+    padding: 12px 0;
+    width: 200px;
+    margin-left: 4px;
+    color: #e6e219;
+    border: none;
+    border-radius: 30px;
+    font-weight: bold;
+    font-family: Segoe UI, sans-serif;
+    cursor: pointer;
+}
+.button3{
+  background-image: url(
+    'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGUJD0DgCxdTDAbvk6u3gVm25AqOS6Ksnt9Q&usqp=CAU');
+    background-size: cover;
+    padding: 12px 0;
+    width: 200px;
+    color: #e6e219;
+    border: none;
+    border-radius: 30px;
+    font-weight: bold;
+    font-family: Segoe UI, sans-serif;
+    cursor: pointer;
+}
+.links{
+  margin-top: 60px;
+  text-align: center;
+  height: 7vh;
+  color: var(--secondary);
+}
